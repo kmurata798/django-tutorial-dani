@@ -27,8 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', 'django-tutorial-km1.herokuapp.com']
 
-
-
 # Application definition
 
 INSTALLED_APPS = [
